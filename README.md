@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Customer Support Ticket Intelligence Platform
 
 > **DOTMappers AI Engineer Technical Assessment**  
@@ -224,3 +225,6 @@ Returns aggregated dashboard metrics and category/priority distributions.
 
 ## 👤 Author
 Developed for **DOTMappers AI Engineer Assessment**.
+=======
+# Ai-Assesment
+>>>>>>> 7b965573da2b930e6779754061931f5441dd7fd4
