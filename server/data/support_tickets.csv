@@ -1,0 +1,501 @@
+ticket_id,created_at,category,priority,status,resp_time_hrs,resol_time_hrs,agent_id,cust_rating,issue_summary,remarks
+TKT-001,2024-01-30 07:55,Technical,Low,Resolved,2.2,8.2,AGT-10,5,API timeout in production,Sent direct link to documentation and user guide.
+TKT-002,2024-02-12 05:29,Billing,Medium,Resolved,0.4,15.9,AGT-06,5,Double billing on subscription,User guided through password reset and login restored.
+TKT-003,2024-01-23 00:12,Technical,Low,Open,2.2,15.9,AGT-09,5,High CPU usage on background worker,Awaiting customer response to troubleshooting steps.
+TKT-004,2024-02-26 20:30,Technical,High,Resolved,1.7,2.9,AGT-06,2,High CPU usage on background worker,Database connection pool expanded and performance restored.
+TKT-005,2024-01-09 19:11,Technical,Medium,Open,1.0,2.9,AGT-03,2,SSL certificate expiry warning,Under active investigation by support staff.
+TKT-006,2024-01-27 06:18,General,Low,Escalated,1.7,2.9,AGT-02,2,Language translation support request,Priority escalation triggered by SLA breach threshold.
+TKT-007,2024-01-13 13:56,Billing,Medium,Open,1.5,2.9,AGT-05,2,Update billing credit card info,Under active investigation by support staff.
+TKT-008,2024-02-06 08:05,General,Medium,Resolved,0.2,3.3,AGT-09,5,Custom domain configuration inquiry,Issue verified fixed and customer confirmed resolution.
+TKT-009,2024-02-04 00:40,Technical,High,Resolved,0.9,5.1,AGT-08,5,Dashboard widget loading state frozen,Database connection pool expanded and performance restored.
+TKT-010,2024-01-21 07:32,Billing,High,Resolved,0.2,7.4,AGT-08,3,Update billing credit card info,Database connection pool expanded and performance restored.
+TKT-011,2024-02-25 02:49,Technical,Medium,Resolved,1.9,6.9,AGT-02,2,Dashboard widget loading state frozen,Issue verified fixed and customer confirmed resolution.
+TKT-012,2024-01-15 21:33,Technical,Low,Resolved,0.5,2.1,AGT-06,2,High CPU usage on background worker,User guided through password reset and login restored.
+TKT-013,2024-01-04 04:44,Technical,High,Resolved,1.6,6.5,AGT-02,3,High CPU usage on background worker,Database connection pool expanded and performance restored.
+TKT-014,2024-01-12 20:52,General,Medium,Resolved,0.7,1.4,AGT-03,3,Inquiry about SLA guarantees,Invoice corrected and sent to customer email.
+TKT-015,2024-01-15 04:27,Billing,Medium,Resolved,0.5,5.1,AGT-03,5,Promo code not applied at checkout,User guided through password reset and login restored.
+TKT-016,2024-02-10 04:36,General,Low,Resolved,2.3,4.4,AGT-09,3,Feedback on recent UI update,Sent direct link to documentation and user guide.
+TKT-017,2024-02-18 19:20,General,Medium,Open,3.1,4.4,AGT-10,3,Onboarding guidance for new team members,Logs collected and queued for review.
+TKT-018,2024-02-04 18:42,Billing,Medium,Resolved,3.1,7.4,AGT-04,5,Auto-renewal cancellation request,Invoice corrected and sent to customer email.
+TKT-019,2024-01-02 21:36,General,Low,Resolved,0.8,2.3,AGT-01,4,Request for product docs,Database connection pool expanded and performance restored.
+TKT-020,2024-01-09 12:30,General,Medium,Resolved,4.7,7.1,AGT-09,4,Onboarding guidance for new team members,Sent direct link to documentation and user guide.
+TKT-021,2024-01-29 14:32,General,High,Open,0.6,7.1,AGT-01,4,Inquiry about SLA guarantees,Logs collected and queued for review.
+TKT-022,2024-02-12 17:07,Technical,Low,Escalated,0.3,7.1,AGT-02,4,Export to CSV throwing 502 Bad Gateway,Escalated to senior engineering team due to complexity.
+TKT-023,2024-01-25 05:12,Billing,Low,Open,0.6,7.1,AGT-03,4,Double billing on subscription,Logs collected and queued for review.
+TKT-024,2024-02-11 03:10,Technical,High,Open,3.6,7.1,AGT-10,4,High CPU usage on background worker,Under active investigation by support staff.
+TKT-025,2024-01-23 04:27,Technical,Medium,Resolved,0.9,3.5,AGT-07,2,SSL certificate expiry warning,Issue verified fixed and customer confirmed resolution.
+TKT-026,2024-02-07 21:24,Billing,Medium,Open,5.5,3.5,AGT-03,2,Refund not processed,Under active investigation by support staff.
+TKT-027,2024-01-12 01:17,General,Low,Open,1.0,3.5,AGT-08,2,User permissions setup assistance,Assigned to L2 technical support queue.
+TKT-028,2024-01-28 04:41,Technical,High,Resolved,0.9,3.0,AGT-01,5,SSL certificate expiry warning,Sent direct link to documentation and user guide.
+TKT-029,2024-02-03 19:24,Billing,Medium,Escalated,0.3,3.0,AGT-10,5,Unrecognized charge on bank statement,Escalated to DevOps for infrastructure investigation.
+TKT-030,2024-01-21 06:05,General,Critical,Resolved,0.1,10.3,AGT-04,4,Onboarding guidance for new team members,Patch deployed to production successfully.
+TKT-031,2024-02-18 20:49,Billing,Medium,Resolved,1.5,5.2,AGT-01,5,Incorrect charge on invoice,Invoice corrected and sent to customer email.
+TKT-032,2024-01-08 15:27,Technical,Low,Open,0.6,5.2,AGT-01,5,Dashboard widget loading state frozen,Logs collected and queued for review.
+TKT-033,2024-02-18 09:34,Technical,Medium,Resolved,1.0,4.6,AGT-01,3,SSL certificate expiry warning,Sent direct link to documentation and user guide.
+TKT-034,2024-02-02 14:48,Technical,High,Resolved,0.1,2.9,AGT-03,2,Mobile app crash on iOS 17 startup,Patch deployed to production successfully.
+TKT-035,2024-01-10 17:36,Technical,Low,Resolved,0.5,4.1,AGT-09,4,Dashboard widget loading state frozen,Patch deployed to production successfully.
+TKT-036,2024-01-08 07:00,Technical,Low,Escalated,1.3,4.1,AGT-03,4,Login failure after update,Escalated to senior engineering team due to complexity.
+TKT-037,2024-02-18 15:30,Billing,Low,Resolved,2.6,5.1,AGT-09,4,Unrecognized charge on bank statement,Sent direct link to documentation and user guide.
+TKT-038,2024-01-26 10:19,Billing,Medium,Escalated,0.5,5.1,AGT-10,4,Incorrect charge on invoice,Priority escalation triggered by SLA breach threshold.
+TKT-039,2024-02-17 02:06,Billing,Low,Open,1.1,5.1,AGT-02,4,Promo code not applied at checkout,Awaiting customer response to troubleshooting steps.
+TKT-040,2024-01-02 17:25,Technical,Medium,Resolved,0.1,2.0,AGT-09,1,SSO authentication error 500,User guided through password reset and login restored.
+TKT-041,2024-02-05 06:31,Technical,High,Resolved,1.0,7.3,AGT-08,4,Export to CSV throwing 502 Bad Gateway,Patch deployed to production successfully.
+TKT-042,2024-02-11 13:23,Technical,Medium,Resolved,0.8,1.7,AGT-04,2,Login failure after update,Invoice corrected and sent to customer email.
+TKT-043,2024-01-27 10:39,Technical,Medium,Resolved,4.0,9.1,AGT-05,5,API timeout in production,User guided through password reset and login restored.
+TKT-044,2024-01-29 02:17,Billing,Low,Resolved,0.9,3.8,AGT-05,5,Incorrect charge on invoice,User guided through password reset and login restored.
+TKT-045,2024-02-16 05:49,Billing,High,Resolved,0.7,4.7,AGT-08,5,Unrecognized charge on bank statement,Invoice corrected and sent to customer email.
+TKT-046,2024-01-22 23:17,Billing,Critical,Open,1.9,4.7,AGT-10,5,Payment gateway transaction failed,Logs collected and queued for review.
+TKT-047,2024-01-26 12:25,Technical,Critical,Resolved,0.2,2.4,AGT-08,4,SSL certificate expiry warning,Issue verified fixed and customer confirmed resolution.
+TKT-048,2024-02-01 21:41,General,Medium,Resolved,2.9,3.8,AGT-07,1,Onboarding guidance for new team members,Patch deployed to production successfully.
+TKT-049,2024-02-17 15:44,Technical,Low,Resolved,0.8,8.0,AGT-07,3,Dashboard widget loading state frozen,Issue verified fixed and customer confirmed resolution.
+TKT-050,2024-02-26 07:42,Technical,Medium,Escalated,0.9,8.0,AGT-06,3,Webhook notifications delayed,Escalated to DevOps for infrastructure investigation.
+TKT-051,2024-01-17 10:34,Technical,Medium,Resolved,2.6,6.3,AGT-04,3,Webhook notifications delayed,Patch deployed to production successfully.
+TKT-052,2024-01-13 14:40,Billing,Medium,Resolved,1.1,2.4,AGT-10,5,Payment gateway transaction failed,Refund processed and credit memo issued.
+TKT-053,2024-01-14 06:00,Billing,High,Resolved,1.5,2.6,AGT-04,3,Invoice receipt missing for tax filing,Invoice corrected and sent to customer email.
+TKT-054,2024-01-26 04:32,Billing,Medium,Resolved,8.5,13.3,AGT-09,5,Unrecognized charge on bank statement,Refund processed and credit memo issued.
+TKT-055,2024-01-23 02:04,General,Low,Resolved,0.3,6.8,AGT-01,3,Account deletion and GDPR data wipe,Patch deployed to production successfully.
+TKT-056,2024-01-05 21:35,Technical,Critical,Escalated,0.2,6.8,AGT-10,3,Database connection pool exhausted,Escalated to senior engineering team due to complexity.
+TKT-057,2024-01-03 07:53,Technical,High,Resolved,1.7,2.6,AGT-09,4,API timeout in production,Issue verified fixed and customer confirmed resolution.
+TKT-058,2024-02-18 22:19,Technical,Critical,Open,1.3,2.6,AGT-04,4,Login failure after update,Awaiting customer response to troubleshooting steps.
+TKT-059,2024-01-14 23:33,Billing,Critical,Resolved,0.2,1.2,AGT-03,5,Unrecognized charge on bank statement,Issue verified fixed and customer confirmed resolution.
+TKT-060,2024-01-03 11:32,Technical,Critical,Resolved,0.5,2.4,AGT-06,2,Database connection pool exhausted,Issue verified fixed and customer confirmed resolution.
+TKT-061,2024-01-02 22:28,General,High,Resolved,2.3,57.4,AGT-01,3,User permissions setup assistance,Invoice corrected and sent to customer email.
+TKT-062,2024-02-27 21:03,Technical,High,Escalated,0.2,57.4,AGT-07,3,High CPU usage on background worker,Escalated to DevOps for infrastructure investigation.
+TKT-063,2024-02-15 00:53,Billing,Critical,Open,0.3,57.4,AGT-02,3,Refund not processed,Assigned to L2 technical support queue.
+TKT-064,2024-01-28 15:54,General,Medium,Resolved,2.0,6.5,AGT-04,4,Language translation support request,Patch deployed to production successfully.
+TKT-065,2024-01-26 20:48,Technical,High,Escalated,0.6,6.5,AGT-01,4,Mobile app crash on iOS 17 startup,Escalated to DevOps for infrastructure investigation.
+TKT-066,2024-02-15 00:41,Billing,Low,Resolved,5.3,10.9,AGT-08,2,Double billing on subscription,Database connection pool expanded and performance restored.
+TKT-067,2024-01-25 07:07,Billing,Low,Resolved,5.1,6.0,AGT-09,3,Promo code not applied at checkout,Invoice corrected and sent to customer email.
+TKT-068,2024-02-15 17:12,Technical,Low,Resolved,3.2,7.0,AGT-01,4,SSO authentication error 500,Sent direct link to documentation and user guide.
+TKT-069,2024-01-26 04:10,Technical,Low,Resolved,1.8,39.7,AGT-10,4,High CPU usage on background worker,Database connection pool expanded and performance restored.
+TKT-070,2024-02-22 13:25,Billing,Critical,Open,5.8,39.7,AGT-01,4,Update billing credit card info,Assigned to L2 technical support queue.
+TKT-071,2024-01-20 14:11,Technical,Critical,Escalated,1.0,39.7,AGT-04,4,API timeout in production,Escalated to DevOps for infrastructure investigation.
+TKT-072,2024-01-06 16:15,Billing,Low,Resolved,1.2,2.3,AGT-05,3,Payment gateway transaction failed,Invoice corrected and sent to customer email.
+TKT-073,2024-01-25 04:43,Technical,Low,Escalated,1.7,2.3,AGT-01,3,Database connection pool exhausted,Priority escalation triggered by SLA breach threshold.
+TKT-074,2024-02-06 06:03,Technical,Critical,Resolved,0.8,33.0,AGT-08,3,Mobile app crash on iOS 17 startup,SSO certificate renewed and tested in production.
+TKT-075,2024-01-02 06:28,Technical,Low,Open,0.5,33.0,AGT-03,3,Dashboard widget loading state frozen,Logs collected and queued for review.
+TKT-076,2024-02-22 12:24,General,Low,Escalated,4.5,33.0,AGT-02,3,Onboarding guidance for new team members,Escalated to DevOps for infrastructure investigation.
+TKT-077,2024-02-17 18:15,Technical,Medium,Open,1.6,33.0,AGT-05,3,Mobile app crash on iOS 17 startup,Awaiting customer response to troubleshooting steps.
+TKT-078,2024-02-18 15:52,Technical,High,Resolved,2.3,71.8,AGT-06,5,SSO authentication error 500,Invoice corrected and sent to customer email.
+TKT-079,2024-02-28 10:17,Technical,High,Resolved,0.4,7.7,AGT-08,5,SSO authentication error 500,User guided through password reset and login restored.
+TKT-080,2024-01-10 13:06,Technical,High,Resolved,0.5,1.3,AGT-04,4,API timeout in production,Database connection pool expanded and performance restored.
+TKT-081,2024-02-28 19:10,Technical,High,Resolved,0.5,1.5,AGT-04,4,High CPU usage on background worker,SSO certificate renewed and tested in production.
+TKT-082,2024-02-12 18:53,Billing,Medium,Resolved,2.9,4.1,AGT-05,1,Auto-renewal cancellation request,User guided through password reset and login restored.
+TKT-083,2024-01-20 22:37,Billing,Low,Resolved,3.3,14.2,AGT-05,3,Auto-renewal cancellation request,Refund processed and credit memo issued.
+TKT-084,2024-01-18 08:59,General,Critical,Escalated,1.2,14.2,AGT-10,3,Custom domain configuration inquiry,Escalated to DevOps for infrastructure investigation.
+TKT-085,2024-01-15 12:49,Billing,High,Resolved,2.1,5.7,AGT-02,4,Promo code not applied at checkout,Issue verified fixed and customer confirmed resolution.
+TKT-086,2024-02-22 14:47,Billing,Low,Resolved,2.6,5.1,AGT-01,3,Subscription tier downgrade requested,Database connection pool expanded and performance restored.
+TKT-087,2024-02-05 04:56,Technical,Medium,Resolved,2.1,11.6,AGT-09,3,API timeout in production,SSO certificate renewed and tested in production.
+TKT-088,2024-02-10 21:03,General,High,Resolved,2.9,41.9,AGT-02,5,Onboarding guidance for new team members,Database connection pool expanded and performance restored.
+TKT-089,2024-02-20 06:15,Technical,Medium,Open,0.8,41.9,AGT-10,5,SSO authentication error 500,Awaiting customer response to troubleshooting steps.
+TKT-090,2024-01-16 02:22,Technical,High,Resolved,0.2,4.1,AGT-03,4,API timeout in production,SSO certificate renewed and tested in production.
+TKT-091,2024-01-09 21:22,Technical,Medium,Resolved,0.4,2.9,AGT-01,4,Webhook notifications delayed,Issue verified fixed and customer confirmed resolution.
+TKT-092,2024-02-14 19:27,Billing,Low,Open,1.1,2.9,AGT-09,4,Incorrect charge on invoice,Under active investigation by support staff.
+TKT-093,2024-01-05 08:37,Technical,High,Resolved,1.2,3.0,AGT-09,3,Database connection pool exhausted,SSO certificate renewed and tested in production.
+TKT-094,2024-01-20 12:22,Technical,Low,Resolved,1.1,5.0,AGT-10,2,API timeout in production,Issue verified fixed and customer confirmed resolution.
+TKT-095,2024-01-18 16:35,Billing,High,Resolved,1.3,5.6,AGT-06,3,Invoice receipt missing for tax filing,Invoice corrected and sent to customer email.
+TKT-096,2024-02-25 04:32,General,Medium,Resolved,0.3,5.3,AGT-07,2,Feedback on recent UI update,Issue verified fixed and customer confirmed resolution.
+TKT-097,2024-02-21 18:22,Billing,Medium,Resolved,0.6,10.7,AGT-06,3,Incorrect charge on invoice,Sent direct link to documentation and user guide.
+TKT-098,2024-02-10 11:11,Technical,Medium,Resolved,0.1,5.2,AGT-07,1,Dashboard widget loading state frozen,SSO certificate renewed and tested in production.
+TKT-099,2024-02-11 16:46,Billing,Low,Resolved,0.2,8.6,AGT-09,5,Refund not processed,Database connection pool expanded and performance restored.
+TKT-100,2024-01-12 05:45,Billing,Medium,Resolved,1.2,61.5,AGT-06,5,Double billing on subscription,Issue verified fixed and customer confirmed resolution.
+TKT-101,2024-01-08 09:42,General,Medium,Resolved,0.2,3.4,AGT-07,2,Onboarding guidance for new team members,Issue verified fixed and customer confirmed resolution.
+TKT-102,2024-02-13 02:11,Billing,Medium,Resolved,1.1,8.4,AGT-02,5,Double billing on subscription,Database connection pool expanded and performance restored.
+TKT-103,2024-01-17 06:16,Technical,Medium,Resolved,1.0,4.6,AGT-03,4,Webhook notifications delayed,Invoice corrected and sent to customer email.
+TKT-104,2024-01-31 19:17,Billing,Critical,Escalated,0.5,4.6,AGT-07,4,Invoice receipt missing for tax filing,Escalated to senior engineering team due to complexity.
+TKT-105,2024-01-15 13:08,Billing,High,Resolved,1.7,51.6,AGT-07,2,Update billing credit card info,Issue verified fixed and customer confirmed resolution.
+TKT-106,2024-02-03 07:34,Billing,Critical,Resolved,2.4,2.9,AGT-08,4,Invoice receipt missing for tax filing,Refund processed and credit memo issued.
+TKT-107,2024-02-20 23:09,Technical,Medium,Resolved,3.4,4.4,AGT-07,3,Webhook notifications delayed,Invoice corrected and sent to customer email.
+TKT-108,2024-02-09 22:17,Technical,Medium,Resolved,0.5,2.9,AGT-06,4,Export to CSV throwing 502 Bad Gateway,Refund processed and credit memo issued.
+TKT-109,2024-01-02 22:50,General,Medium,Resolved,0.3,2.3,AGT-07,2,Inquiry about SLA guarantees,Refund processed and credit memo issued.
+TKT-110,2024-01-23 23:55,Technical,Critical,Escalated,6.1,2.3,AGT-07,2,API timeout in production,Escalated to senior engineering team due to complexity.
+TKT-111,2024-01-27 11:22,Billing,Low,Resolved,0.4,0.9,AGT-08,5,Update billing credit card info,Invoice corrected and sent to customer email.
+TKT-112,2024-01-22 21:24,Technical,Low,Resolved,1.4,10.8,AGT-10,1,Dashboard widget loading state frozen,Invoice corrected and sent to customer email.
+TKT-113,2024-02-19 05:53,Billing,Low,Resolved,0.1,2.4,AGT-01,5,Promo code not applied at checkout,SSO certificate renewed and tested in production.
+TKT-114,2024-02-17 16:54,Billing,Low,Resolved,0.2,1.4,AGT-01,3,Double billing on subscription,User guided through password reset and login restored.
+TKT-115,2024-02-16 13:16,General,Medium,Resolved,1.0,7.9,AGT-07,2,Inquiry about SLA guarantees,Patch deployed to production successfully.
+TKT-116,2024-01-03 22:43,General,Medium,Escalated,1.1,7.9,AGT-04,2,Account deletion and GDPR data wipe,Customer requested manager escalation.
+TKT-117,2024-02-15 16:48,Technical,High,Resolved,0.1,13.1,AGT-05,5,Dashboard widget loading state frozen,Sent direct link to documentation and user guide.
+TKT-118,2024-01-11 00:32,Technical,Medium,Resolved,0.3,2.7,AGT-04,4,API timeout in production,SSO certificate renewed and tested in production.
+TKT-119,2024-01-31 00:30,Technical,Low,Resolved,1.8,5.1,AGT-07,3,Export to CSV throwing 502 Bad Gateway,Database connection pool expanded and performance restored.
+TKT-120,2024-02-27 03:46,General,High,Open,1.5,5.1,AGT-07,3,Feature request: Dark mode support,Under active investigation by support staff.
+TKT-121,2024-02-06 08:21,Technical,Low,Resolved,3.6,5.0,AGT-03,5,Database connection pool exhausted,Invoice corrected and sent to customer email.
+TKT-122,2024-02-11 01:43,Technical,Low,Resolved,2.7,7.9,AGT-04,5,Database connection pool exhausted,Issue verified fixed and customer confirmed resolution.
+TKT-123,2024-02-26 09:37,General,Medium,Resolved,2.1,4.8,AGT-06,5,Account deletion and GDPR data wipe,Invoice corrected and sent to customer email.
+TKT-124,2024-02-18 14:39,Technical,Medium,Resolved,0.8,4.5,AGT-09,4,SSO authentication error 500,Refund processed and credit memo issued.
+TKT-125,2024-02-06 16:00,Billing,Low,Resolved,1.1,3.3,AGT-02,4,Incorrect charge on invoice,Database connection pool expanded and performance restored.
+TKT-126,2024-02-27 16:30,General,Medium,Resolved,2.5,5.4,AGT-08,4,User permissions setup assistance,Patch deployed to production successfully.
+TKT-127,2024-02-10 06:37,Billing,Low,Resolved,0.7,8.3,AGT-01,4,Update billing credit card info,Sent direct link to documentation and user guide.
+TKT-128,2024-01-21 16:49,Billing,Medium,Open,2.7,8.3,AGT-05,4,Invoice receipt missing for tax filing,Awaiting customer response to troubleshooting steps.
+TKT-129,2024-01-05 05:45,Technical,Low,Escalated,0.7,8.3,AGT-05,4,API timeout in production,Customer requested manager escalation.
+TKT-130,2024-01-28 19:07,Technical,High,Escalated,1.6,8.3,AGT-04,4,Mobile app crash on iOS 17 startup,Escalated to DevOps for infrastructure investigation.
+TKT-131,2024-01-18 14:52,General,Medium,Resolved,1.1,1.9,AGT-05,2,Account deletion and GDPR data wipe,User guided through password reset and login restored.
+TKT-132,2024-01-01 11:39,Technical,High,Open,2.7,1.9,AGT-02,2,Export to CSV throwing 502 Bad Gateway,Logs collected and queued for review.
+TKT-133,2024-02-19 16:45,General,Low,Resolved,0.2,12.5,AGT-07,2,Inquiry about SLA guarantees,Sent direct link to documentation and user guide.
+TKT-134,2024-01-06 11:31,Technical,Medium,Resolved,2.1,20.8,AGT-10,4,API timeout in production,Patch deployed to production successfully.
+TKT-135,2024-01-08 09:05,Billing,High,Resolved,1.6,54.5,AGT-03,4,Promo code not applied at checkout,Database connection pool expanded and performance restored.
+TKT-136,2024-01-31 14:45,Technical,Critical,Resolved,2.9,11.9,AGT-10,4,API timeout in production,Sent direct link to documentation and user guide.
+TKT-137,2024-02-15 00:54,General,High,Resolved,4.9,12.7,AGT-01,5,Request for product docs,Patch deployed to production successfully.
+TKT-138,2024-02-06 14:25,Technical,Medium,Resolved,3.6,50.7,AGT-01,5,SSL certificate expiry warning,SSO certificate renewed and tested in production.
+TKT-139,2024-02-13 06:02,Technical,High,Open,1.0,50.7,AGT-09,5,Mobile app crash on iOS 17 startup,Under active investigation by support staff.
+TKT-140,2024-01-15 12:48,Technical,Medium,Open,0.2,50.7,AGT-01,5,Webhook notifications delayed,Logs collected and queued for review.
+TKT-141,2024-01-29 12:03,General,High,Open,1.4,50.7,AGT-04,5,Onboarding guidance for new team members,Awaiting customer response to troubleshooting steps.
+TKT-142,2024-01-22 20:59,Billing,Medium,Resolved,1.9,4.1,AGT-03,5,Invoice receipt missing for tax filing,SSO certificate renewed and tested in production.
+TKT-143,2024-01-04 06:30,General,High,Resolved,0.2,8.3,AGT-06,2,Custom domain configuration inquiry,Patch deployed to production successfully.
+TKT-144,2024-02-17 18:11,Technical,Medium,Resolved,1.7,3.3,AGT-10,4,Login failure after update,User guided through password reset and login restored.
+TKT-145,2024-02-09 21:51,Billing,Medium,Open,1.3,3.3,AGT-07,4,Payment gateway transaction failed,Awaiting customer response to troubleshooting steps.
+TKT-146,2024-02-17 15:16,Billing,Critical,Open,1.6,3.3,AGT-10,4,Auto-renewal cancellation request,Logs collected and queued for review.
+TKT-147,2024-02-17 08:43,Technical,High,Open,1.1,3.3,AGT-06,4,SSO authentication error 500,Assigned to L2 technical support queue.
+TKT-148,2024-02-06 04:47,Billing,High,Resolved,4.5,11.7,AGT-05,5,Double billing on subscription,User guided through password reset and login restored.
+TKT-149,2024-02-09 09:17,Technical,Low,Resolved,0.9,2.4,AGT-03,4,Export to CSV throwing 502 Bad Gateway,User guided through password reset and login restored.
+TKT-150,2024-02-26 20:18,Billing,Medium,Escalated,1.7,2.4,AGT-09,4,Double billing on subscription,Escalated to senior engineering team due to complexity.
+TKT-151,2024-02-23 21:47,Technical,Medium,Resolved,0.5,7.5,AGT-02,4,Dashboard widget loading state frozen,User guided through password reset and login restored.
+TKT-152,2024-02-21 18:30,General,Medium,Resolved,6.1,23.8,AGT-03,3,Inquiry regarding API rate limits,User guided through password reset and login restored.
+TKT-153,2024-01-24 04:15,Technical,Medium,Open,1.0,23.8,AGT-07,3,Mobile app crash on iOS 17 startup,Awaiting customer response to troubleshooting steps.
+TKT-154,2024-01-03 16:50,Technical,Medium,Resolved,4.3,9.4,AGT-07,2,SSO authentication error 500,User guided through password reset and login restored.
+TKT-155,2024-02-29 15:52,Billing,Medium,Open,1.7,9.4,AGT-07,2,Double billing on subscription,Assigned to L2 technical support queue.
+TKT-156,2024-02-15 08:19,Billing,Medium,Open,1.6,9.4,AGT-09,2,Unrecognized charge on bank statement,Under active investigation by support staff.
+TKT-157,2024-02-27 09:21,Billing,High,Resolved,1.7,4.7,AGT-06,4,Unrecognized charge on bank statement,Issue verified fixed and customer confirmed resolution.
+TKT-158,2024-01-01 13:53,Technical,Low,Resolved,1.2,5.3,AGT-01,3,High CPU usage on background worker,Refund processed and credit memo issued.
+TKT-159,2024-01-18 12:17,Technical,Low,Resolved,0.9,44.3,AGT-06,4,API timeout in production,Invoice corrected and sent to customer email.
+TKT-160,2024-02-01 16:07,Technical,Medium,Resolved,2.4,5.0,AGT-03,2,Login failure after update,Invoice corrected and sent to customer email.
+TKT-161,2024-02-18 15:43,Billing,High,Resolved,0.9,8.9,AGT-07,4,Refund not processed,Patch deployed to production successfully.
+TKT-162,2024-01-11 04:30,Technical,Medium,Resolved,1.0,2.9,AGT-09,5,Database connection pool exhausted,User guided through password reset and login restored.
+TKT-163,2024-02-09 18:55,Billing,Critical,Open,2.2,2.9,AGT-09,5,Auto-renewal cancellation request,Under active investigation by support staff.
+TKT-164,2024-02-14 21:00,Technical,Low,Resolved,0.7,1.7,AGT-06,2,Dashboard widget loading state frozen,Database connection pool expanded and performance restored.
+TKT-165,2024-02-10 10:49,Billing,Medium,Open,0.6,1.7,AGT-02,2,Update billing credit card info,Awaiting customer response to troubleshooting steps.
+TKT-166,2024-02-18 05:14,Technical,Medium,Resolved,3.7,11.6,AGT-08,2,Database connection pool exhausted,Invoice corrected and sent to customer email.
+TKT-167,2024-01-07 23:33,Billing,Medium,Resolved,0.9,8.4,AGT-08,5,Unrecognized charge on bank statement,Sent direct link to documentation and user guide.
+TKT-168,2024-01-26 20:43,Billing,Low,Resolved,0.4,4.6,AGT-06,4,Double billing on subscription,Patch deployed to production successfully.
+TKT-169,2024-02-03 09:42,Technical,Low,Resolved,0.2,43.4,AGT-06,1,Database connection pool exhausted,Issue verified fixed and customer confirmed resolution.
+TKT-170,2024-01-25 23:35,Technical,High,Resolved,0.2,7.8,AGT-10,5,SSO authentication error 500,Patch deployed to production successfully.
+TKT-171,2024-02-06 20:46,Technical,Medium,Open,0.3,7.8,AGT-07,5,Webhook notifications delayed,Logs collected and queued for review.
+TKT-172,2024-02-09 17:55,Billing,Critical,Open,1.2,7.8,AGT-10,5,Update billing credit card info,Awaiting customer response to troubleshooting steps.
+TKT-173,2024-01-21 05:36,Technical,Low,Escalated,2.4,7.8,AGT-01,5,API timeout in production,Escalated to DevOps for infrastructure investigation.
+TKT-174,2024-02-18 10:35,Billing,Medium,Resolved,1.2,3.6,AGT-10,3,Subscription tier downgrade requested,Issue verified fixed and customer confirmed resolution.
+TKT-175,2024-02-05 00:51,Technical,Medium,Escalated,0.5,3.6,AGT-03,3,Dashboard widget loading state frozen,Escalated to DevOps for infrastructure investigation.
+TKT-176,2024-02-22 17:04,Billing,High,Open,1.0,3.6,AGT-01,3,Double billing on subscription,Logs collected and queued for review.
+TKT-177,2024-02-04 17:42,Billing,High,Resolved,2.8,4.0,AGT-07,1,Auto-renewal cancellation request,Issue verified fixed and customer confirmed resolution.
+TKT-178,2024-02-02 13:17,Billing,Medium,Resolved,1.0,11.1,AGT-02,2,Invoice receipt missing for tax filing,Refund processed and credit memo issued.
+TKT-179,2024-02-11 23:07,General,Medium,Resolved,1.5,2.7,AGT-06,4,Inquiry regarding API rate limits,SSO certificate renewed and tested in production.
+TKT-180,2024-02-13 12:48,Technical,Medium,Escalated,0.6,2.7,AGT-05,4,Webhook notifications delayed,Customer requested manager escalation.
+TKT-181,2024-01-26 07:29,General,High,Resolved,1.2,5.5,AGT-05,4,Feature request: Dark mode support,Issue verified fixed and customer confirmed resolution.
+TKT-182,2024-02-15 14:00,Technical,Low,Resolved,1.8,3.7,AGT-07,2,Mobile app crash on iOS 17 startup,Sent direct link to documentation and user guide.
+TKT-183,2024-02-29 12:47,Billing,High,Resolved,4.2,8.2,AGT-09,5,Incorrect charge on invoice,Invoice corrected and sent to customer email.
+TKT-184,2024-02-15 09:11,Technical,Medium,Open,0.2,8.2,AGT-02,5,Database connection pool exhausted,Under active investigation by support staff.
+TKT-185,2024-02-27 06:07,Billing,Critical,Open,0.7,8.2,AGT-01,5,Incorrect charge on invoice,Under active investigation by support staff.
+TKT-186,2024-01-31 04:41,General,Medium,Resolved,2.5,3.9,AGT-03,4,User permissions setup assistance,User guided through password reset and login restored.
+TKT-187,2024-01-08 01:02,Technical,High,Open,1.0,3.9,AGT-08,4,Export to CSV throwing 502 Bad Gateway,Under active investigation by support staff.
+TKT-188,2024-01-25 00:51,Billing,Medium,Resolved,4.6,8.8,AGT-05,4,Payment gateway transaction failed,Invoice corrected and sent to customer email.
+TKT-189,2024-01-05 20:42,General,Critical,Open,2.8,8.8,AGT-04,4,Custom domain configuration inquiry,Assigned to L2 technical support queue.
+TKT-190,2024-02-12 15:19,General,Low,Resolved,1.6,6.5,AGT-03,5,Feature request: Dark mode support,Patch deployed to production successfully.
+TKT-191,2024-02-01 12:45,General,Medium,Resolved,0.3,1.2,AGT-01,3,Custom domain configuration inquiry,SSO certificate renewed and tested in production.
+TKT-192,2024-01-26 18:30,Billing,Medium,Resolved,2.5,10.1,AGT-09,5,Incorrect charge on invoice,SSO certificate renewed and tested in production.
+TKT-193,2024-01-19 01:38,Technical,Low,Escalated,0.5,10.1,AGT-03,5,Database connection pool exhausted,Priority escalation triggered by SLA breach threshold.
+TKT-194,2024-02-12 18:04,Technical,High,Resolved,0.3,1.3,AGT-04,5,Database connection pool exhausted,Patch deployed to production successfully.
+TKT-195,2024-02-02 12:32,Billing,Low,Resolved,1.4,2.6,AGT-07,2,Double billing on subscription,Refund processed and credit memo issued.
+TKT-196,2024-01-15 12:08,Technical,Low,Open,0.8,2.6,AGT-10,2,Database connection pool exhausted,Awaiting customer response to troubleshooting steps.
+TKT-197,2024-02-12 12:44,Billing,High,Open,2.4,2.6,AGT-02,2,Refund not processed,Assigned to L2 technical support queue.
+TKT-198,2024-02-10 17:33,General,Medium,Open,1.8,2.6,AGT-10,2,Feature request: Dark mode support,Logs collected and queued for review.
+TKT-199,2024-02-03 08:06,General,High,Open,0.1,2.6,AGT-04,2,Inquiry regarding API rate limits,Logs collected and queued for review.
+TKT-200,2024-01-04 18:12,Technical,Low,Open,2.0,2.6,AGT-04,2,High CPU usage on background worker,Assigned to L2 technical support queue.
+TKT-201,2024-01-25 08:19,Billing,High,Resolved,0.3,3.1,AGT-08,5,Payment gateway transaction failed,Invoice corrected and sent to customer email.
+TKT-202,2024-02-01 08:05,General,Medium,Resolved,2.0,63.0,AGT-10,4,Inquiry about SLA guarantees,User guided through password reset and login restored.
+TKT-203,2024-01-11 20:09,Billing,Low,Resolved,1.7,8.0,AGT-08,4,Unrecognized charge on bank statement,Issue verified fixed and customer confirmed resolution.
+TKT-204,2024-02-13 20:35,Technical,High,Resolved,0.3,1.6,AGT-05,5,API timeout in production,Refund processed and credit memo issued.
+TKT-205,2024-01-15 09:13,Billing,Medium,Resolved,0.3,10.2,AGT-08,5,Invoice receipt missing for tax filing,Patch deployed to production successfully.
+TKT-206,2024-02-04 09:02,Billing,High,Open,0.8,10.2,AGT-02,5,Subscription tier downgrade requested,Assigned to L2 technical support queue.
+TKT-207,2024-01-11 01:11,Technical,Low,Resolved,6.9,9.7,AGT-03,4,Database connection pool exhausted,SSO certificate renewed and tested in production.
+TKT-208,2024-01-27 03:35,General,Medium,Resolved,2.0,7.5,AGT-02,3,Custom domain configuration inquiry,User guided through password reset and login restored.
+TKT-209,2024-01-13 00:39,Technical,Low,Open,2.1,7.5,AGT-10,3,Dashboard widget loading state frozen,Under active investigation by support staff.
+TKT-210,2024-01-06 23:24,Billing,Low,Resolved,1.8,2.8,AGT-08,4,Incorrect charge on invoice,Refund processed and credit memo issued.
+TKT-211,2024-01-25 06:32,Billing,Medium,Resolved,2.4,5.2,AGT-01,3,Subscription tier downgrade requested,Patch deployed to production successfully.
+TKT-212,2024-01-09 12:33,Billing,Medium,Open,0.8,5.2,AGT-10,3,Auto-renewal cancellation request,Assigned to L2 technical support queue.
+TKT-213,2024-01-25 02:42,Technical,Medium,Resolved,7.3,10.9,AGT-05,4,Dashboard widget loading state frozen,Patch deployed to production successfully.
+TKT-214,2024-02-06 12:13,General,Critical,Resolved,2.2,15.9,AGT-04,5,Onboarding guidance for new team members,Database connection pool expanded and performance restored.
+TKT-215,2024-01-08 20:42,General,High,Resolved,2.4,6.8,AGT-05,5,Language translation support request,Sent direct link to documentation and user guide.
+TKT-216,2024-01-10 01:10,Billing,Medium,Resolved,2.4,3.4,AGT-03,5,Payment gateway transaction failed,Database connection pool expanded and performance restored.
+TKT-217,2024-02-01 23:15,General,Medium,Open,0.2,3.4,AGT-07,5,Language translation support request,Under active investigation by support staff.
+TKT-218,2024-02-22 10:29,Billing,Medium,Resolved,1.5,2.1,AGT-05,2,Payment gateway transaction failed,Issue verified fixed and customer confirmed resolution.
+TKT-219,2024-01-09 22:08,Billing,Medium,Resolved,0.2,2.4,AGT-03,5,Subscription tier downgrade requested,Issue verified fixed and customer confirmed resolution.
+TKT-220,2024-01-27 15:22,Technical,Medium,Resolved,2.5,6.8,AGT-09,4,Webhook notifications delayed,Patch deployed to production successfully.
+TKT-221,2024-02-06 08:43,Technical,High,Resolved,0.3,2.6,AGT-04,4,Dashboard widget loading state frozen,Sent direct link to documentation and user guide.
+TKT-222,2024-01-01 23:05,Billing,Medium,Resolved,2.5,7.3,AGT-06,5,Update billing credit card info,Refund processed and credit memo issued.
+TKT-223,2024-01-31 18:49,Billing,High,Resolved,1.0,3.8,AGT-09,4,Auto-renewal cancellation request,Patch deployed to production successfully.
+TKT-224,2024-01-09 03:56,General,High,Escalated,3.0,3.8,AGT-05,4,Inquiry regarding API rate limits,Escalated to senior engineering team due to complexity.
+TKT-225,2024-01-21 04:03,Billing,Medium,Resolved,2.8,70.9,AGT-05,4,Double billing on subscription,SSO certificate renewed and tested in production.
+TKT-226,2024-02-09 05:45,Technical,Low,Resolved,0.4,2.9,AGT-07,2,SSO authentication error 500,Database connection pool expanded and performance restored.
+TKT-227,2024-01-18 03:51,General,Medium,Resolved,0.2,4.3,AGT-04,4,Inquiry regarding API rate limits,Patch deployed to production successfully.
+TKT-228,2024-01-06 05:43,Technical,Low,Resolved,0.4,1.7,AGT-09,2,Database connection pool exhausted,Sent direct link to documentation and user guide.
+TKT-229,2024-01-22 03:11,Billing,Medium,Resolved,1.7,9.6,AGT-07,3,Promo code not applied at checkout,Sent direct link to documentation and user guide.
+TKT-230,2024-01-12 06:47,Technical,Medium,Resolved,0.3,5.0,AGT-02,3,Webhook notifications delayed,Database connection pool expanded and performance restored.
+TKT-231,2024-02-25 00:34,Billing,High,Escalated,0.3,5.0,AGT-09,3,Subscription tier downgrade requested,Priority escalation triggered by SLA breach threshold.
+TKT-232,2024-01-14 18:01,General,Medium,Open,0.7,5.0,AGT-05,3,Feature request: Dark mode support,Logs collected and queued for review.
+TKT-233,2024-01-06 09:40,Technical,Medium,Resolved,2.7,7.6,AGT-05,2,SSO authentication error 500,SSO certificate renewed and tested in production.
+TKT-234,2024-01-29 23:00,Billing,Low,Resolved,0.8,5.7,AGT-02,5,Unrecognized charge on bank statement,Issue verified fixed and customer confirmed resolution.
+TKT-235,2024-01-15 10:03,Technical,Low,Resolved,1.6,6.1,AGT-03,5,High CPU usage on background worker,Invoice corrected and sent to customer email.
+TKT-236,2024-02-22 06:08,Technical,Medium,Resolved,1.6,58.2,AGT-10,5,Export to CSV throwing 502 Bad Gateway,Issue verified fixed and customer confirmed resolution.
+TKT-237,2024-02-15 19:14,Technical,Medium,Resolved,0.6,5.3,AGT-05,5,SSL certificate expiry warning,Patch deployed to production successfully.
+TKT-238,2024-01-11 01:19,Technical,Low,Resolved,1.6,6.2,AGT-05,4,API timeout in production,Database connection pool expanded and performance restored.
+TKT-239,2024-02-09 04:25,Billing,Medium,Resolved,1.4,5.4,AGT-10,3,Invoice receipt missing for tax filing,Patch deployed to production successfully.
+TKT-240,2024-01-30 14:11,Technical,Low,Resolved,0.1,5.8,AGT-08,2,Export to CSV throwing 502 Bad Gateway,SSO certificate renewed and tested in production.
+TKT-241,2024-01-09 04:54,Technical,Low,Resolved,1.2,7.0,AGT-07,1,Mobile app crash on iOS 17 startup,Invoice corrected and sent to customer email.
+TKT-242,2024-02-22 09:19,Technical,Medium,Escalated,1.6,7.0,AGT-06,1,Webhook notifications delayed,Customer requested manager escalation.
+TKT-243,2024-02-29 13:56,General,High,Resolved,2.0,2.6,AGT-03,5,Onboarding guidance for new team members,Refund processed and credit memo issued.
+TKT-244,2024-01-28 22:53,Technical,Medium,Resolved,0.3,2.7,AGT-01,4,SSO authentication error 500,Issue verified fixed and customer confirmed resolution.
+TKT-245,2024-01-02 06:03,Technical,Medium,Resolved,0.5,1.6,AGT-10,4,Dashboard widget loading state frozen,Sent direct link to documentation and user guide.
+TKT-246,2024-02-22 05:55,General,Critical,Resolved,1.4,1.9,AGT-10,4,Feature request: Dark mode support,Patch deployed to production successfully.
+TKT-247,2024-02-23 03:08,Technical,High,Resolved,5.6,8.4,AGT-02,2,Export to CSV throwing 502 Bad Gateway,Database connection pool expanded and performance restored.
+TKT-248,2024-02-26 05:45,Billing,High,Resolved,0.5,2.8,AGT-10,3,Auto-renewal cancellation request,Database connection pool expanded and performance restored.
+TKT-249,2024-02-27 12:05,Billing,Low,Resolved,0.7,11.7,AGT-05,1,Double billing on subscription,Invoice corrected and sent to customer email.
+TKT-250,2024-02-20 13:10,Technical,Critical,Resolved,4.6,15.7,AGT-02,4,Dashboard widget loading state frozen,User guided through password reset and login restored.
+TKT-251,2024-01-31 10:25,Technical,Critical,Open,1.2,15.7,AGT-03,4,Export to CSV throwing 502 Bad Gateway,Awaiting customer response to troubleshooting steps.
+TKT-252,2024-01-27 10:47,Billing,Medium,Open,0.5,15.7,AGT-08,4,Invoice receipt missing for tax filing,Assigned to L2 technical support queue.
+TKT-253,2024-01-31 17:44,Technical,Low,Resolved,4.4,9.8,AGT-05,4,Mobile app crash on iOS 17 startup,Refund processed and credit memo issued.
+TKT-254,2024-02-05 10:56,General,Low,Escalated,1.5,9.8,AGT-01,4,User permissions setup assistance,Priority escalation triggered by SLA breach threshold.
+TKT-255,2024-01-11 17:37,Technical,Low,Resolved,0.6,3.8,AGT-02,1,High CPU usage on background worker,Invoice corrected and sent to customer email.
+TKT-256,2024-01-07 11:51,Technical,Low,Open,2.8,3.8,AGT-03,1,Webhook notifications delayed,Awaiting customer response to troubleshooting steps.
+TKT-257,2024-01-21 02:00,General,Medium,Resolved,2.0,2.7,AGT-06,1,Feedback on recent UI update,Invoice corrected and sent to customer email.
+TKT-258,2024-02-05 15:10,General,Low,Resolved,1.5,4.6,AGT-07,5,Onboarding guidance for new team members,SSO certificate renewed and tested in production.
+TKT-259,2024-02-13 22:56,Billing,Medium,Resolved,1.3,20.9,AGT-07,4,Payment gateway transaction failed,Database connection pool expanded and performance restored.
+TKT-260,2024-01-05 23:52,General,Low,Resolved,0.3,6.2,AGT-05,4,Language translation support request,Issue verified fixed and customer confirmed resolution.
+TKT-261,2024-02-09 10:52,General,Critical,Open,0.9,6.2,AGT-09,4,Account deletion and GDPR data wipe,Logs collected and queued for review.
+TKT-262,2024-02-11 22:22,Billing,Medium,Resolved,3.3,3.9,AGT-02,4,Double billing on subscription,Refund processed and credit memo issued.
+TKT-263,2024-01-07 14:37,General,Low,Resolved,5.0,7.9,AGT-09,4,Inquiry about SLA guarantees,Issue verified fixed and customer confirmed resolution.
+TKT-264,2024-02-10 03:20,Technical,Medium,Resolved,0.2,2.7,AGT-09,4,SSL certificate expiry warning,SSO certificate renewed and tested in production.
+TKT-265,2024-01-31 16:23,Billing,Medium,Resolved,0.5,2.7,AGT-01,1,Double billing on subscription,User guided through password reset and login restored.
+TKT-266,2024-03-01 04:49,Billing,High,Escalated,3.6,2.7,AGT-09,1,Double billing on subscription,Customer requested manager escalation.
+TKT-267,2024-02-19 13:16,Technical,Critical,Escalated,3.3,2.7,AGT-05,1,Webhook notifications delayed,Escalated to DevOps for infrastructure investigation.
+TKT-268,2024-01-21 18:03,General,Medium,Resolved,2.6,3.9,AGT-04,4,Feedback on recent UI update,Refund processed and credit memo issued.
+TKT-269,2024-01-31 18:46,Technical,Low,Resolved,1.6,19.4,AGT-01,4,High CPU usage on background worker,Invoice corrected and sent to customer email.
+TKT-270,2024-01-07 00:00,Technical,Critical,Resolved,0.4,1.1,AGT-03,5,SSL certificate expiry warning,Issue verified fixed and customer confirmed resolution.
+TKT-271,2024-02-02 10:24,Billing,Low,Escalated,1.1,1.1,AGT-10,5,Refund not processed,Escalated to senior engineering team due to complexity.
+TKT-272,2024-01-05 13:17,Technical,Medium,Resolved,2.5,10.6,AGT-05,5,Mobile app crash on iOS 17 startup,Patch deployed to production successfully.
+TKT-273,2024-01-29 18:36,Technical,Low,Escalated,0.7,10.6,AGT-10,5,Dashboard widget loading state frozen,Customer requested manager escalation.
+TKT-274,2024-01-24 22:14,Billing,Medium,Escalated,0.7,10.6,AGT-04,5,Invoice receipt missing for tax filing,Customer requested manager escalation.
+TKT-275,2024-01-09 22:46,Billing,Medium,Resolved,1.8,5.7,AGT-05,3,Invoice receipt missing for tax filing,Database connection pool expanded and performance restored.
+TKT-276,2024-02-27 17:50,General,Low,Resolved,3.6,5.3,AGT-03,5,Feature request: Dark mode support,Invoice corrected and sent to customer email.
+TKT-277,2024-02-11 00:47,Billing,Low,Resolved,2.5,12.4,AGT-05,5,Subscription tier downgrade requested,Sent direct link to documentation and user guide.
+TKT-278,2024-01-24 15:38,Technical,Medium,Resolved,0.2,2.2,AGT-06,5,SSO authentication error 500,User guided through password reset and login restored.
+TKT-279,2024-01-25 07:36,General,Low,Resolved,0.5,3.5,AGT-03,4,Custom domain configuration inquiry,Sent direct link to documentation and user guide.
+TKT-280,2024-01-07 15:17,Technical,High,Resolved,0.7,4.2,AGT-02,5,Login failure after update,User guided through password reset and login restored.
+TKT-281,2024-02-23 13:53,Technical,Medium,Resolved,1.2,2.9,AGT-08,5,Export to CSV throwing 502 Bad Gateway,Issue verified fixed and customer confirmed resolution.
+TKT-282,2024-02-20 00:12,General,Medium,Resolved,2.3,57.9,AGT-09,5,Inquiry regarding API rate limits,Patch deployed to production successfully.
+TKT-283,2024-01-04 16:31,Technical,High,Resolved,4.8,6.9,AGT-10,5,Dashboard widget loading state frozen,Refund processed and credit memo issued.
+TKT-284,2024-02-26 02:30,Billing,Medium,Resolved,3.7,8.3,AGT-04,5,Promo code not applied at checkout,Patch deployed to production successfully.
+TKT-285,2024-02-13 13:15,General,Critical,Resolved,0.5,1.6,AGT-04,4,User permissions setup assistance,Issue verified fixed and customer confirmed resolution.
+TKT-286,2024-01-09 15:46,Technical,Low,Resolved,1.7,4.5,AGT-02,3,SSL certificate expiry warning,Refund processed and credit memo issued.
+TKT-287,2024-02-17 15:42,Technical,Medium,Resolved,2.9,4.1,AGT-03,3,High CPU usage on background worker,Issue verified fixed and customer confirmed resolution.
+TKT-288,2024-01-09 23:39,Billing,Low,Resolved,2.7,5.2,AGT-05,4,Subscription tier downgrade requested,Issue verified fixed and customer confirmed resolution.
+TKT-289,2024-01-29 14:18,Billing,Medium,Resolved,0.8,2.0,AGT-06,1,Double billing on subscription,Sent direct link to documentation and user guide.
+TKT-290,2024-02-20 17:37,Billing,High,Resolved,2.0,8.8,AGT-02,5,Unrecognized charge on bank statement,User guided through password reset and login restored.
+TKT-291,2024-02-13 10:23,Billing,Low,Resolved,2.2,6.7,AGT-09,5,Update billing credit card info,User guided through password reset and login restored.
+TKT-292,2024-02-27 08:30,Technical,Low,Escalated,0.2,6.7,AGT-01,5,API timeout in production,Customer requested manager escalation.
+TKT-293,2024-02-29 18:35,Technical,High,Open,3.2,6.7,AGT-07,5,High CPU usage on background worker,Logs collected and queued for review.
+TKT-294,2024-02-03 12:22,Technical,High,Resolved,3.4,11.4,AGT-02,5,Login failure after update,Refund processed and credit memo issued.
+TKT-295,2024-02-16 05:52,Billing,Critical,Resolved,0.1,2.7,AGT-02,4,Incorrect charge on invoice,Patch deployed to production successfully.
+TKT-296,2024-02-18 08:19,Technical,Medium,Resolved,1.5,2.4,AGT-09,4,Mobile app crash on iOS 17 startup,SSO certificate renewed and tested in production.
+TKT-297,2024-01-28 04:08,General,Medium,Open,1.5,2.4,AGT-03,4,Account deletion and GDPR data wipe,Under active investigation by support staff.
+TKT-298,2024-02-28 23:14,Technical,Medium,Open,0.9,2.4,AGT-01,4,Login failure after update,Under active investigation by support staff.
+TKT-299,2024-02-12 12:39,Technical,Low,Resolved,1.6,13.6,AGT-03,4,Export to CSV throwing 502 Bad Gateway,User guided through password reset and login restored.
+TKT-300,2024-02-13 15:14,Technical,High,Resolved,0.6,7.0,AGT-02,4,Dashboard widget loading state frozen,SSO certificate renewed and tested in production.
+TKT-301,2024-01-09 04:52,Technical,Medium,Resolved,0.4,5.1,AGT-10,4,Webhook notifications delayed,Database connection pool expanded and performance restored.
+TKT-302,2024-02-21 13:30,Technical,Low,Resolved,2.3,7.1,AGT-09,5,Database connection pool exhausted,Invoice corrected and sent to customer email.
+TKT-303,2024-02-04 23:06,Billing,Low,Resolved,2.7,10.0,AGT-05,3,Double billing on subscription,Invoice corrected and sent to customer email.
+TKT-304,2024-02-19 14:47,Technical,Medium,Open,0.3,10.0,AGT-06,3,Webhook notifications delayed,Under active investigation by support staff.
+TKT-305,2024-02-05 09:09,Technical,Critical,Resolved,2.1,13.0,AGT-08,3,SSO authentication error 500,User guided through password reset and login restored.
+TKT-306,2024-01-13 03:55,Technical,High,Resolved,0.6,2.9,AGT-02,3,SSL certificate expiry warning,SSO certificate renewed and tested in production.
+TKT-307,2024-02-21 07:38,Technical,Low,Resolved,5.1,8.6,AGT-03,5,Login failure after update,Refund processed and credit memo issued.
+TKT-308,2024-01-08 22:01,Billing,Low,Resolved,2.9,5.7,AGT-05,5,Subscription tier downgrade requested,Sent direct link to documentation and user guide.
+TKT-309,2024-01-30 03:53,Technical,Low,Resolved,3.3,13.5,AGT-04,2,Webhook notifications delayed,User guided through password reset and login restored.
+TKT-310,2024-01-24 00:26,Billing,Medium,Open,0.9,13.5,AGT-07,2,Invoice receipt missing for tax filing,Logs collected and queued for review.
+TKT-311,2024-01-15 10:13,Technical,Medium,Escalated,4.3,13.5,AGT-07,2,SSL certificate expiry warning,Escalated to senior engineering team due to complexity.
+TKT-312,2024-01-28 14:24,Billing,Medium,Resolved,3.2,4.0,AGT-01,4,Incorrect charge on invoice,Issue verified fixed and customer confirmed resolution.
+TKT-313,2024-02-11 10:09,Billing,Critical,Resolved,1.7,4.2,AGT-10,5,Payment gateway transaction failed,User guided through password reset and login restored.
+TKT-314,2024-02-10 22:21,Technical,Critical,Resolved,0.2,4.6,AGT-05,5,Database connection pool exhausted,User guided through password reset and login restored.
+TKT-315,2024-02-25 20:31,Billing,Medium,Resolved,3.4,8.7,AGT-09,5,Unrecognized charge on bank statement,Database connection pool expanded and performance restored.
+TKT-316,2024-02-19 04:25,General,Low,Resolved,2.2,3.1,AGT-09,3,Account deletion and GDPR data wipe,Database connection pool expanded and performance restored.
+TKT-317,2024-02-02 21:32,Technical,Low,Resolved,1.6,70.2,AGT-02,2,SSO authentication error 500,SSO certificate renewed and tested in production.
+TKT-318,2024-01-24 03:18,Billing,Medium,Resolved,1.2,5.8,AGT-08,5,Double billing on subscription,Invoice corrected and sent to customer email.
+TKT-319,2024-02-11 06:16,Technical,Critical,Resolved,6.3,11.5,AGT-05,4,Webhook notifications delayed,Invoice corrected and sent to customer email.
+TKT-320,2024-02-11 10:41,Billing,Low,Resolved,1.1,1.9,AGT-05,1,Promo code not applied at checkout,User guided through password reset and login restored.
+TKT-321,2024-01-21 16:03,Billing,Critical,Open,0.2,1.9,AGT-06,1,Subscription tier downgrade requested,Logs collected and queued for review.
+TKT-322,2024-01-04 22:43,Technical,Low,Resolved,1.0,9.9,AGT-01,5,Webhook notifications delayed,Issue verified fixed and customer confirmed resolution.
+TKT-323,2024-01-05 21:31,Technical,Medium,Resolved,0.3,63.7,AGT-07,4,Mobile app crash on iOS 17 startup,Patch deployed to production successfully.
+TKT-324,2024-02-26 00:05,Billing,Medium,Resolved,2.0,3.0,AGT-04,1,Unrecognized charge on bank statement,SSO certificate renewed and tested in production.
+TKT-325,2024-02-17 02:35,Billing,High,Resolved,2.4,8.3,AGT-06,4,Unrecognized charge on bank statement,Invoice corrected and sent to customer email.
+TKT-326,2024-01-15 23:06,Technical,High,Open,1.0,8.3,AGT-07,4,Webhook notifications delayed,Logs collected and queued for review.
+TKT-327,2024-02-18 04:24,Billing,Low,Resolved,4.0,10.1,AGT-06,2,Refund not processed,Database connection pool expanded and performance restored.
+TKT-328,2024-02-12 04:33,Technical,High,Resolved,1.4,11.2,AGT-02,3,Database connection pool exhausted,Patch deployed to production successfully.
+TKT-329,2024-02-21 01:30,General,Low,Resolved,0.6,8.0,AGT-10,3,Onboarding guidance for new team members,Invoice corrected and sent to customer email.
+TKT-330,2024-01-24 07:46,Technical,Low,Resolved,0.2,6.5,AGT-10,3,Mobile app crash on iOS 17 startup,Patch deployed to production successfully.
+TKT-331,2024-02-29 15:59,Billing,Low,Resolved,2.7,3.3,AGT-05,4,Update billing credit card info,Invoice corrected and sent to customer email.
+TKT-332,2024-01-08 23:22,Billing,Medium,Resolved,4.0,62.5,AGT-01,5,Unrecognized charge on bank statement,Sent direct link to documentation and user guide.
+TKT-333,2024-01-17 04:57,Technical,High,Resolved,1.1,2.2,AGT-05,4,API timeout in production,Refund processed and credit memo issued.
+TKT-334,2024-02-02 01:44,Billing,High,Resolved,0.5,4.5,AGT-07,1,Payment gateway transaction failed,Database connection pool expanded and performance restored.
+TKT-335,2024-02-04 14:12,Technical,Medium,Resolved,2.5,7.7,AGT-04,2,Webhook notifications delayed,Database connection pool expanded and performance restored.
+TKT-336,2024-02-22 15:55,Billing,Low,Resolved,1.2,9.1,AGT-09,5,Subscription tier downgrade requested,Patch deployed to production successfully.
+TKT-337,2024-01-22 10:35,Technical,Medium,Resolved,0.4,1.9,AGT-01,5,Dashboard widget loading state frozen,Database connection pool expanded and performance restored.
+TKT-338,2024-02-18 18:09,Technical,Low,Resolved,1.9,3.2,AGT-07,1,API timeout in production,Invoice corrected and sent to customer email.
+TKT-339,2024-01-25 19:01,General,Low,Escalated,0.2,3.2,AGT-09,1,Inquiry regarding API rate limits,Customer requested manager escalation.
+TKT-340,2024-01-30 07:15,Technical,Low,Resolved,0.9,2.5,AGT-07,2,High CPU usage on background worker,User guided through password reset and login restored.
+TKT-341,2024-02-19 22:33,Technical,Medium,Open,0.7,2.5,AGT-04,2,API timeout in production,Assigned to L2 technical support queue.
+TKT-342,2024-01-24 18:15,Technical,Medium,Resolved,2.5,9.3,AGT-02,4,SSO authentication error 500,Patch deployed to production successfully.
+TKT-343,2024-02-01 13:25,Billing,Medium,Resolved,1.2,15.0,AGT-09,4,Subscription tier downgrade requested,Patch deployed to production successfully.
+TKT-344,2024-02-08 15:18,Billing,Critical,Open,2.2,15.0,AGT-08,4,Auto-renewal cancellation request,Under active investigation by support staff.
+TKT-345,2024-01-10 10:42,Technical,Low,Resolved,0.8,5.5,AGT-08,4,SSO authentication error 500,Patch deployed to production successfully.
+TKT-346,2024-01-04 23:54,Technical,Medium,Resolved,1.1,1.7,AGT-03,5,SSO authentication error 500,Invoice corrected and sent to customer email.
+TKT-347,2024-02-01 11:57,Technical,Medium,Resolved,1.7,2.7,AGT-03,4,SSL certificate expiry warning,Invoice corrected and sent to customer email.
+TKT-348,2024-02-06 00:19,Technical,High,Resolved,1.9,6.1,AGT-08,5,API timeout in production,Patch deployed to production successfully.
+TKT-349,2024-02-02 18:55,Billing,Medium,Resolved,1.0,5.6,AGT-07,1,Refund not processed,SSO certificate renewed and tested in production.
+TKT-350,2024-02-23 04:32,Technical,Low,Resolved,1.4,5.6,AGT-06,5,Export to CSV throwing 502 Bad Gateway,SSO certificate renewed and tested in production.
+TKT-351,2024-01-24 07:37,Technical,Medium,Resolved,3.9,13.7,AGT-09,3,Dashboard widget loading state frozen,Sent direct link to documentation and user guide.
+TKT-352,2024-02-11 00:59,Billing,Medium,Open,3.5,13.7,AGT-09,3,Payment gateway transaction failed,Awaiting customer response to troubleshooting steps.
+TKT-353,2024-01-27 09:52,Technical,High,Open,1.0,13.7,AGT-10,3,Database connection pool exhausted,Under active investigation by support staff.
+TKT-354,2024-01-16 02:25,Technical,Low,Resolved,0.4,34.4,AGT-09,2,Login failure after update,Sent direct link to documentation and user guide.
+TKT-355,2024-01-19 05:09,Technical,Medium,Resolved,0.7,5.6,AGT-01,4,Login failure after update,Invoice corrected and sent to customer email.
+TKT-356,2024-02-22 20:13,Technical,Medium,Escalated,2.3,5.6,AGT-04,4,Login failure after update,Customer requested manager escalation.
+TKT-357,2024-01-06 07:40,Billing,High,Escalated,1.9,5.6,AGT-02,4,Unrecognized charge on bank statement,Customer requested manager escalation.
+TKT-358,2024-02-19 11:16,Technical,Critical,Resolved,1.4,14.3,AGT-02,1,SSO authentication error 500,Issue verified fixed and customer confirmed resolution.
+TKT-359,2024-02-10 14:32,Billing,Medium,Resolved,0.6,20.9,AGT-06,1,Auto-renewal cancellation request,Invoice corrected and sent to customer email.
+TKT-360,2024-02-03 01:47,Billing,Low,Open,0.2,20.9,AGT-07,1,Update billing credit card info,Awaiting customer response to troubleshooting steps.
+TKT-361,2024-01-26 10:57,Technical,Low,Resolved,1.5,2.1,AGT-10,3,SSL certificate expiry warning,SSO certificate renewed and tested in production.
+TKT-362,2024-01-30 16:06,Technical,Medium,Resolved,1.3,1.9,AGT-08,2,Database connection pool exhausted,Database connection pool expanded and performance restored.
+TKT-363,2024-02-26 12:28,Technical,High,Resolved,1.7,4.1,AGT-05,5,Database connection pool exhausted,SSO certificate renewed and tested in production.
+TKT-364,2024-01-06 00:14,Billing,High,Resolved,0.5,2.2,AGT-05,2,Subscription tier downgrade requested,SSO certificate renewed and tested in production.
+TKT-365,2024-02-23 17:27,General,Medium,Open,3.1,2.2,AGT-05,2,Language translation support request,Under active investigation by support staff.
+TKT-366,2024-01-13 00:16,Billing,Medium,Open,0.8,2.2,AGT-03,2,Auto-renewal cancellation request,Under active investigation by support staff.
+TKT-367,2024-02-24 19:46,Technical,Low,Resolved,0.2,4.1,AGT-04,5,Dashboard widget loading state frozen,Sent direct link to documentation and user guide.
+TKT-368,2024-02-03 12:21,Technical,High,Resolved,0.4,2.4,AGT-06,5,Export to CSV throwing 502 Bad Gateway,Sent direct link to documentation and user guide.
+TKT-369,2024-01-18 11:17,Technical,High,Open,0.4,2.4,AGT-01,5,High CPU usage on background worker,Under active investigation by support staff.
+TKT-370,2024-02-15 02:12,Billing,High,Open,2.8,2.4,AGT-08,5,Invoice receipt missing for tax filing,Assigned to L2 technical support queue.
+TKT-371,2024-02-06 09:18,Technical,Low,Resolved,2.4,9.8,AGT-05,5,Dashboard widget loading state frozen,Invoice corrected and sent to customer email.
+TKT-372,2024-01-08 00:12,Billing,Low,Resolved,2.9,5.6,AGT-06,5,Incorrect charge on invoice,Refund processed and credit memo issued.
+TKT-373,2024-01-25 06:36,Billing,High,Open,0.3,5.6,AGT-02,5,Subscription tier downgrade requested,Logs collected and queued for review.
+TKT-374,2024-01-26 23:45,General,Low,Open,0.6,5.6,AGT-02,5,Inquiry regarding API rate limits,Assigned to L2 technical support queue.
+TKT-375,2024-02-03 03:59,Technical,Critical,Resolved,1.7,8.6,AGT-04,3,Mobile app crash on iOS 17 startup,Sent direct link to documentation and user guide.
+TKT-376,2024-01-08 10:03,Technical,Medium,Resolved,0.2,1.6,AGT-06,4,Export to CSV throwing 502 Bad Gateway,User guided through password reset and login restored.
+TKT-377,2024-01-07 10:45,Technical,High,Resolved,1.8,7.3,AGT-05,3,SSL certificate expiry warning,Refund processed and credit memo issued.
+TKT-378,2024-01-09 04:56,General,Low,Resolved,0.8,2.5,AGT-01,5,Onboarding guidance for new team members,Refund processed and credit memo issued.
+TKT-379,2024-02-09 18:50,General,Low,Resolved,0.8,7.9,AGT-02,5,Feature request: Dark mode support,Refund processed and credit memo issued.
+TKT-380,2024-01-20 02:01,General,Medium,Resolved,0.3,2.5,AGT-02,5,Custom domain configuration inquiry,Issue verified fixed and customer confirmed resolution.
+TKT-381,2024-01-31 20:47,Billing,Low,Resolved,2.2,6.3,AGT-10,4,Auto-renewal cancellation request,SSO certificate renewed and tested in production.
+TKT-382,2024-02-09 16:02,Technical,Medium,Open,1.4,6.3,AGT-08,4,High CPU usage on background worker,Awaiting customer response to troubleshooting steps.
+TKT-383,2024-01-13 02:40,General,High,Open,0.3,6.3,AGT-06,4,Feedback on recent UI update,Assigned to L2 technical support queue.
+TKT-384,2024-02-14 09:59,Technical,High,Open,1.2,6.3,AGT-06,4,Export to CSV throwing 502 Bad Gateway,Under active investigation by support staff.
+TKT-385,2024-02-01 20:13,Billing,Medium,Resolved,0.2,3.1,AGT-07,2,Incorrect charge on invoice,Refund processed and credit memo issued.
+TKT-386,2024-02-25 03:58,Billing,Medium,Resolved,1.3,5.5,AGT-07,4,Payment gateway transaction failed,Database connection pool expanded and performance restored.
+TKT-387,2024-02-22 10:28,Technical,Medium,Open,2.3,5.5,AGT-03,4,Dashboard widget loading state frozen,Under active investigation by support staff.
+TKT-388,2024-01-06 02:15,Technical,Low,Resolved,0.4,1.1,AGT-03,5,SSL certificate expiry warning,Patch deployed to production successfully.
+TKT-389,2024-01-30 17:37,General,Medium,Resolved,0.2,6.2,AGT-10,4,Inquiry about SLA guarantees,User guided through password reset and login restored.
+TKT-390,2024-01-28 20:24,General,Medium,Escalated,0.1,6.2,AGT-03,4,Inquiry about SLA guarantees,Escalated to senior engineering team due to complexity.
+TKT-391,2024-02-20 12:29,Billing,High,Resolved,0.5,3.9,AGT-03,2,Refund not processed,SSO certificate renewed and tested in production.
+TKT-392,2024-02-04 10:47,General,High,Resolved,1.1,5.7,AGT-03,5,Feedback on recent UI update,Invoice corrected and sent to customer email.
+TKT-393,2024-01-21 16:14,Billing,Low,Open,5.0,5.7,AGT-04,5,Unrecognized charge on bank statement,Logs collected and queued for review.
+TKT-394,2024-02-05 19:12,Billing,Medium,Resolved,3.3,4.7,AGT-07,3,Double billing on subscription,User guided through password reset and login restored.
+TKT-395,2024-02-28 17:37,General,Critical,Escalated,0.1,4.7,AGT-07,3,Inquiry about SLA guarantees,Customer requested manager escalation.
+TKT-396,2024-02-07 15:42,Billing,Critical,Resolved,1.0,58.6,AGT-04,2,Payment gateway transaction failed,Sent direct link to documentation and user guide.
+TKT-397,2024-02-28 09:40,Technical,High,Resolved,1.1,3.8,AGT-10,3,SSL certificate expiry warning,Refund processed and credit memo issued.
+TKT-398,2024-01-03 12:33,Technical,Critical,Resolved,2.4,5.2,AGT-01,4,SSO authentication error 500,SSO certificate renewed and tested in production.
+TKT-399,2024-01-30 20:00,Technical,High,Open,1.2,5.2,AGT-06,4,Webhook notifications delayed,Logs collected and queued for review.
+TKT-400,2024-02-29 05:06,Technical,Medium,Escalated,0.8,5.2,AGT-01,4,Export to CSV throwing 502 Bad Gateway,Customer requested manager escalation.
+TKT-401,2024-02-11 19:19,Billing,Medium,Resolved,1.5,4.5,AGT-07,2,Double billing on subscription,Refund processed and credit memo issued.
+TKT-402,2024-01-31 21:24,Technical,Medium,Resolved,0.2,1.2,AGT-07,1,API timeout in production,Patch deployed to production successfully.
+TKT-403,2024-02-28 11:55,General,High,Resolved,0.2,1.7,AGT-10,4,Custom domain configuration inquiry,User guided through password reset and login restored.
+TKT-404,2024-01-11 14:26,Technical,Low,Resolved,4.4,5.3,AGT-07,1,SSL certificate expiry warning,Issue verified fixed and customer confirmed resolution.
+TKT-405,2024-02-10 18:30,Technical,Low,Resolved,0.1,14.2,AGT-03,5,SSL certificate expiry warning,Sent direct link to documentation and user guide.
+TKT-406,2024-01-18 15:23,Technical,High,Resolved,1.3,4.4,AGT-09,4,Dashboard widget loading state frozen,Invoice corrected and sent to customer email.
+TKT-407,2024-02-05 12:16,Billing,Medium,Resolved,1.4,5.1,AGT-01,2,Invoice receipt missing for tax filing,Database connection pool expanded and performance restored.
+TKT-408,2024-02-26 16:56,Technical,Critical,Escalated,1.4,5.1,AGT-06,2,Dashboard widget loading state frozen,Customer requested manager escalation.
+TKT-409,2024-01-12 05:13,Technical,Medium,Resolved,0.5,8.1,AGT-03,3,SSL certificate expiry warning,SSO certificate renewed and tested in production.
+TKT-410,2024-02-13 23:27,Billing,Low,Resolved,1.8,4.5,AGT-10,4,Incorrect charge on invoice,User guided through password reset and login restored.
+TKT-411,2024-02-20 03:35,Technical,Medium,Open,0.4,4.5,AGT-10,4,Dashboard widget loading state frozen,Awaiting customer response to troubleshooting steps.
+TKT-412,2024-01-29 07:31,Technical,Low,Resolved,0.7,2.9,AGT-01,5,SSO authentication error 500,SSO certificate renewed and tested in production.
+TKT-413,2024-01-19 02:02,Billing,Low,Resolved,1.2,5.9,AGT-08,3,Unrecognized charge on bank statement,Patch deployed to production successfully.
+TKT-414,2024-02-27 00:34,Billing,Medium,Open,3.2,5.9,AGT-07,3,Auto-renewal cancellation request,Awaiting customer response to troubleshooting steps.
+TKT-415,2024-02-05 19:56,General,Low,Escalated,4.0,5.9,AGT-02,3,Onboarding guidance for new team members,Escalated to DevOps for infrastructure investigation.
+TKT-416,2024-01-17 10:27,Technical,Low,Open,3.3,5.9,AGT-10,3,Database connection pool exhausted,Logs collected and queued for review.
+TKT-417,2024-01-09 13:53,General,Medium,Resolved,0.9,12.7,AGT-09,5,Onboarding guidance for new team members,Patch deployed to production successfully.
+TKT-418,2024-02-09 23:17,Technical,High,Open,1.8,12.7,AGT-01,5,Webhook notifications delayed,Under active investigation by support staff.
+TKT-419,2024-02-27 07:04,Technical,Low,Resolved,0.2,3.3,AGT-08,2,SSO authentication error 500,Refund processed and credit memo issued.
+TKT-420,2024-02-25 14:37,General,Critical,Resolved,9.4,14.8,AGT-10,5,Feedback on recent UI update,User guided through password reset and login restored.
+TKT-421,2024-01-23 07:57,Billing,Low,Open,2.3,14.8,AGT-02,5,Auto-renewal cancellation request,Assigned to L2 technical support queue.
+TKT-422,2024-02-27 13:02,Technical,High,Open,0.1,14.8,AGT-06,5,Webhook notifications delayed,Logs collected and queued for review.
+TKT-423,2024-01-24 10:32,General,High,Resolved,0.6,5.1,AGT-09,2,User permissions setup assistance,Invoice corrected and sent to customer email.
+TKT-424,2024-02-14 18:52,Billing,Medium,Resolved,1.4,12.2,AGT-05,4,Update billing credit card info,Patch deployed to production successfully.
+TKT-425,2024-01-09 03:33,General,Medium,Resolved,2.7,6.0,AGT-03,5,Feature request: Dark mode support,SSO certificate renewed and tested in production.
+TKT-426,2024-01-28 07:42,Billing,Medium,Resolved,0.6,6.2,AGT-10,4,Subscription tier downgrade requested,User guided through password reset and login restored.
+TKT-427,2024-02-03 12:09,Billing,High,Resolved,0.4,2.4,AGT-07,2,Auto-renewal cancellation request,User guided through password reset and login restored.
+TKT-428,2024-02-24 21:00,General,Critical,Resolved,1.4,6.0,AGT-09,4,Account deletion and GDPR data wipe,Refund processed and credit memo issued.
+TKT-429,2024-02-21 01:44,Technical,High,Resolved,0.3,12.7,AGT-06,4,Dashboard widget loading state frozen,SSO certificate renewed and tested in production.
+TKT-430,2024-01-09 11:15,Technical,Medium,Open,0.7,12.7,AGT-05,4,Dashboard widget loading state frozen,Assigned to L2 technical support queue.
+TKT-431,2024-01-15 13:06,General,Medium,Resolved,1.1,2.5,AGT-10,4,Inquiry about SLA guarantees,Database connection pool expanded and performance restored.
+TKT-432,2024-02-14 14:03,Technical,Medium,Resolved,2.4,51.7,AGT-07,2,Webhook notifications delayed,SSO certificate renewed and tested in production.
+TKT-433,2024-02-02 10:32,Billing,Critical,Open,4.1,51.7,AGT-03,2,Refund not processed,Logs collected and queued for review.
+TKT-434,2024-01-13 15:28,Technical,Low,Open,0.2,51.7,AGT-07,2,Export to CSV throwing 502 Bad Gateway,Awaiting customer response to troubleshooting steps.
+TKT-435,2024-02-26 11:53,General,Low,Open,0.7,51.7,AGT-07,2,Account deletion and GDPR data wipe,Logs collected and queued for review.
+TKT-436,2024-01-18 13:18,Billing,High,Escalated,5.1,51.7,AGT-06,2,Auto-renewal cancellation request,Escalated to senior engineering team due to complexity.
+TKT-437,2024-02-26 08:21,Billing,Medium,Resolved,1.3,3.6,AGT-08,5,Double billing on subscription,User guided through password reset and login restored.
+TKT-438,2024-01-31 06:31,Technical,Low,Resolved,0.7,2.9,AGT-04,2,Dashboard widget loading state frozen,Refund processed and credit memo issued.
+TKT-439,2024-02-08 20:15,Billing,Critical,Open,1.6,2.9,AGT-06,2,Payment gateway transaction failed,Assigned to L2 technical support queue.
+TKT-440,2024-01-12 18:06,Billing,Low,Escalated,0.9,2.9,AGT-02,2,Promo code not applied at checkout,Escalated to DevOps for infrastructure investigation.
+TKT-441,2024-01-12 01:57,Technical,Medium,Resolved,0.9,1.6,AGT-07,2,Dashboard widget loading state frozen,Sent direct link to documentation and user guide.
+TKT-442,2024-02-21 00:01,Technical,Low,Open,0.4,1.6,AGT-06,2,Database connection pool exhausted,Logs collected and queued for review.
+TKT-443,2024-02-21 10:49,General,Low,Resolved,1.1,6.5,AGT-10,4,User permissions setup assistance,Invoice corrected and sent to customer email.
+TKT-444,2024-01-14 18:25,Billing,Low,Open,0.5,6.5,AGT-10,4,Subscription tier downgrade requested,Awaiting customer response to troubleshooting steps.
+TKT-445,2024-01-10 12:12,Technical,Low,Resolved,1.3,3.6,AGT-02,5,SSO authentication error 500,Database connection pool expanded and performance restored.
+TKT-446,2024-01-15 07:47,Technical,High,Resolved,0.6,1.9,AGT-06,5,Export to CSV throwing 502 Bad Gateway,Patch deployed to production successfully.
+TKT-447,2024-01-20 02:46,Billing,Medium,Resolved,2.1,6.4,AGT-05,4,Refund not processed,User guided through password reset and login restored.
+TKT-448,2024-01-24 04:39,Technical,Critical,Resolved,0.5,12.9,AGT-03,1,SSL certificate expiry warning,Sent direct link to documentation and user guide.
+TKT-449,2024-01-18 06:13,Billing,High,Escalated,1.9,12.9,AGT-07,1,Invoice receipt missing for tax filing,Customer requested manager escalation.
+TKT-450,2024-02-13 04:22,General,Medium,Resolved,6.6,7.2,AGT-07,1,Feature request: Dark mode support,Sent direct link to documentation and user guide.
+TKT-451,2024-01-31 03:53,Technical,Medium,Resolved,1.2,10.7,AGT-01,2,Mobile app crash on iOS 17 startup,Invoice corrected and sent to customer email.
+TKT-452,2024-01-05 11:38,Billing,Medium,Open,0.5,10.7,AGT-04,2,Payment gateway transaction failed,Under active investigation by support staff.
+TKT-453,2024-02-26 20:33,Billing,Critical,Resolved,1.2,2.7,AGT-04,4,Refund not processed,SSO certificate renewed and tested in production.
+TKT-454,2024-02-09 17:13,Billing,High,Open,2.9,2.7,AGT-08,4,Refund not processed,Logs collected and queued for review.
+TKT-455,2024-02-08 03:09,Technical,Low,Resolved,0.9,35.6,AGT-06,4,SSL certificate expiry warning,Database connection pool expanded and performance restored.
+TKT-456,2024-01-19 17:45,Billing,Medium,Resolved,2.9,5.0,AGT-10,2,Double billing on subscription,User guided through password reset and login restored.
+TKT-457,2024-01-10 16:36,Billing,Low,Resolved,0.8,5.9,AGT-10,5,Payment gateway transaction failed,SSO certificate renewed and tested in production.
+TKT-458,2024-02-17 02:55,Billing,Low,Open,2.2,5.9,AGT-01,5,Refund not processed,Awaiting customer response to troubleshooting steps.
+TKT-459,2024-01-12 23:55,Technical,High,Resolved,3.2,12.1,AGT-06,4,Database connection pool exhausted,Refund processed and credit memo issued.
+TKT-460,2024-02-25 13:59,Billing,Low,Resolved,1.9,2.7,AGT-09,4,Unrecognized charge on bank statement,User guided through password reset and login restored.
+TKT-461,2024-02-02 18:15,Technical,Medium,Open,0.8,2.7,AGT-06,4,Database connection pool exhausted,Awaiting customer response to troubleshooting steps.
+TKT-462,2024-02-17 22:46,Technical,Low,Open,2.7,2.7,AGT-06,4,Login failure after update,Assigned to L2 technical support queue.
+TKT-463,2024-01-24 18:17,Billing,Medium,Open,5.3,2.7,AGT-10,4,Unrecognized charge on bank statement,Under active investigation by support staff.
+TKT-464,2024-01-07 05:32,Billing,Critical,Escalated,3.4,2.7,AGT-07,4,Refund not processed,Escalated to senior engineering team due to complexity.
+TKT-465,2024-01-13 14:45,Technical,Low,Open,0.2,2.7,AGT-07,4,High CPU usage on background worker,Awaiting customer response to troubleshooting steps.
+TKT-466,2024-02-19 06:43,Technical,Low,Resolved,3.5,7.2,AGT-08,4,SSL certificate expiry warning,Refund processed and credit memo issued.
+TKT-467,2024-02-06 14:11,Technical,Low,Resolved,1.7,14.3,AGT-01,4,Webhook notifications delayed,Sent direct link to documentation and user guide.
+TKT-468,2024-02-01 22:47,Technical,Medium,Resolved,2.9,6.3,AGT-06,4,API timeout in production,Database connection pool expanded and performance restored.
+TKT-469,2024-01-27 14:49,Technical,Low,Resolved,0.8,26.3,AGT-05,3,High CPU usage on background worker,Patch deployed to production successfully.
+TKT-470,2024-02-08 01:52,Technical,Critical,Open,1.6,26.3,AGT-10,3,API timeout in production,Under active investigation by support staff.
+TKT-471,2024-01-14 08:50,Technical,Medium,Resolved,0.8,33.6,AGT-07,1,Webhook notifications delayed,Database connection pool expanded and performance restored.
+TKT-472,2024-01-27 02:53,General,High,Resolved,0.2,21.1,AGT-05,4,Custom domain configuration inquiry,SSO certificate renewed and tested in production.
+TKT-473,2024-02-21 05:28,General,Low,Open,0.7,21.1,AGT-10,4,Account deletion and GDPR data wipe,Awaiting customer response to troubleshooting steps.
+TKT-474,2024-02-09 01:30,Technical,Medium,Open,1.1,21.1,AGT-04,4,Webhook notifications delayed,Under active investigation by support staff.
+TKT-475,2024-01-11 14:35,General,Medium,Open,0.4,21.1,AGT-10,4,Custom domain configuration inquiry,Under active investigation by support staff.
+TKT-476,2024-01-25 20:35,Technical,Medium,Resolved,2.2,4.0,AGT-02,5,API timeout in production,Refund processed and credit memo issued.
+TKT-477,2024-02-12 23:27,Technical,Low,Resolved,3.8,5.3,AGT-01,3,Mobile app crash on iOS 17 startup,Database connection pool expanded and performance restored.
+TKT-478,2024-01-30 17:40,Technical,High,Resolved,0.2,2.1,AGT-02,3,Export to CSV throwing 502 Bad Gateway,SSO certificate renewed and tested in production.
+TKT-479,2024-02-10 06:46,General,Medium,Resolved,1.5,2.4,AGT-01,5,Feedback on recent UI update,Refund processed and credit memo issued.
+TKT-480,2024-02-16 17:15,Billing,Low,Open,2.2,2.4,AGT-10,5,Update billing credit card info,Assigned to L2 technical support queue.
+TKT-481,2024-01-23 19:56,Technical,Low,Resolved,1.2,3.9,AGT-06,5,Export to CSV throwing 502 Bad Gateway,Patch deployed to production successfully.
+TKT-482,2024-01-06 13:47,Billing,Low,Resolved,1.2,1.8,AGT-09,3,Double billing on subscription,Refund processed and credit memo issued.
+TKT-483,2024-02-03 13:57,Technical,Low,Escalated,0.9,1.8,AGT-07,3,SSL certificate expiry warning,Priority escalation triggered by SLA breach threshold.
+TKT-484,2024-02-13 21:05,General,Low,Resolved,0.8,6.0,AGT-04,5,Feedback on recent UI update,User guided through password reset and login restored.
+TKT-485,2024-01-03 20:03,Technical,Medium,Open,0.2,6.0,AGT-03,5,API timeout in production,Assigned to L2 technical support queue.
+TKT-486,2024-02-26 07:54,Technical,Medium,Resolved,0.3,4.1,AGT-06,5,API timeout in production,Patch deployed to production successfully.
+TKT-487,2024-01-06 09:41,General,Medium,Resolved,0.6,8.0,AGT-05,5,Inquiry regarding API rate limits,Database connection pool expanded and performance restored.
+TKT-488,2024-02-24 07:17,Technical,Medium,Resolved,1.7,18.4,AGT-06,5,SSO authentication error 500,Refund processed and credit memo issued.
+TKT-489,2024-01-22 17:09,Technical,Medium,Resolved,1.2,14.7,AGT-10,1,Mobile app crash on iOS 17 startup,Sent direct link to documentation and user guide.
+TKT-490,2024-02-15 15:58,Technical,Medium,Resolved,0.6,1.8,AGT-04,4,SSO authentication error 500,Refund processed and credit memo issued.
+TKT-491,2024-01-30 20:12,Billing,Medium,Open,0.7,1.8,AGT-03,4,Payment gateway transaction failed,Under active investigation by support staff.
+TKT-492,2024-02-28 16:01,Technical,Medium,Resolved,0.5,2.0,AGT-09,5,Webhook notifications delayed,Patch deployed to production successfully.
+TKT-493,2024-01-26 15:36,General,Low,Open,4.4,2.0,AGT-10,5,Inquiry regarding API rate limits,Awaiting customer response to troubleshooting steps.
+TKT-494,2024-02-12 02:06,Billing,Critical,Resolved,0.2,0.8,AGT-01,5,Update billing credit card info,User guided through password reset and login restored.
+TKT-495,2024-02-28 10:06,General,Medium,Resolved,0.5,2.5,AGT-09,4,Feature request: Dark mode support,Patch deployed to production successfully.
+TKT-496,2024-02-01 16:03,General,Low,Resolved,0.3,10.2,AGT-02,5,Language translation support request,SSO certificate renewed and tested in production.
+TKT-497,2024-02-11 17:45,Technical,Medium,Resolved,0.6,13.0,AGT-04,3,Webhook notifications delayed,Invoice corrected and sent to customer email.
+TKT-498,2024-02-22 04:48,Technical,Critical,Open,0.7,13.0,AGT-04,3,Export to CSV throwing 502 Bad Gateway,Awaiting customer response to troubleshooting steps.
+TKT-499,2024-01-07 01:33,Billing,Low,Escalated,0.1,13.0,AGT-09,3,Update billing credit card info,Customer requested manager escalation.
+TKT-500,2024-02-04 04:53,Technical,Medium,Open,1.5,13.0,AGT-06,3,SSL certificate expiry warning,Assigned to L2 technical support queue.
